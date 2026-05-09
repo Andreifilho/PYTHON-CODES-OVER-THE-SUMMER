@@ -1,0 +1,7 @@
+def reverse(word):
+    result = ""
+    for char in word:
+        result = char + result
+    print(result)
+
+reverse("hello")
