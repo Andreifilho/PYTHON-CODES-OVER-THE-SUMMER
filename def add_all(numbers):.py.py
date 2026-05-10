@@ -1,0 +1,7 @@
+def add_all(numbers):
+    result = 0
+    for num in numbers:
+        result += num
+    print(result)
+
+add_all([1, 2, 3, 4, 5])
