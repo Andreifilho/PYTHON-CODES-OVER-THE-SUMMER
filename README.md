@@ -1,1 +1,1 @@
-# Small-python-codes
+Python codes done over the summer involving multiple concepts
